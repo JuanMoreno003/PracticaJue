@@ -1,0 +1,2 @@
+# PracticaJue
+Mi primer repositorio 
