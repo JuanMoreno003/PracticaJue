@@ -1,8 +1,4 @@
-Erase una vez un vaca en una granja y zas llego el lobo y se la comió
-----
----
-
-el pollito asustado advirtió a la granja pero estos lo ignoraron
-
-……….................
-1asdfasfdsdf
+void start()
+{
+	print("Hola mundo");
+}
